@@ -13,4 +13,8 @@
     <string name="hello_blank_fragment">Recipes</string>
     <string name="recipes">Recipes</string>
     <string name="favorites">Favorites</string>
+    <string name="favorite_recipes">Favorite recipes</string>
+    <string name="recipes_fragment_title">Recipes</string>
+    <string name="fragment_recipes_title">Recipes</string>
+    <string name="fragment_favorites_title">Favorites</string>
 </resources>
