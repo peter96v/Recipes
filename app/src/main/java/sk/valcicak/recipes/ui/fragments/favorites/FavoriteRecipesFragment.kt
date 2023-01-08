@@ -1,10 +1,11 @@
-package sk.valcicak.recipes
+package sk.valcicak.recipes.ui.fragments.favorites
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import sk.valcicak.recipes.R
 
 
 class FavoriteRecipesFragment : Fragment() {

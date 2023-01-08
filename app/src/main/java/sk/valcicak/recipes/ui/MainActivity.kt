@@ -1,13 +1,11 @@
-package sk.valcicak.recipes
+package sk.valcicak.recipes.ui
 
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
-import android.view.Menu
-import android.view.MenuItem
 import androidx.navigation.NavController
 import androidx.navigation.ui.*
+import sk.valcicak.recipes.R
 import sk.valcicak.recipes.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
