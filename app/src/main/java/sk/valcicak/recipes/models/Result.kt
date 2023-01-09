@@ -3,7 +3,7 @@ import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 
 @JsonClass(generateAdapter = true)
-data class Recipe(
+data class Result(
     @Json(name = "aggregateLikes")
     val aggregateLikes: Int, // 3689
     @Json(name = "cheap")
